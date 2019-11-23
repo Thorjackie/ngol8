@@ -1,4 +1,5 @@
 # ngol8
+
 repository for my ngol8 cpu, WIP
 file descriptions:
   genrom.py:
