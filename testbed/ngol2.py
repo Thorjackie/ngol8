@@ -1,0 +1,1 @@
+insts = ['nop', 'data', 'load', '

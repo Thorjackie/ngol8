@@ -1,0 +1,20 @@
+data r0 0x03
+data r1 0x04
+data r2 0x00
+data r3 0x00
+data r4 0x0f
+cmp r0 r1
+jmpg 
+add r3 r1
+inc r2
+cmp r2 r1
+jmpe
+jmp
+add r3 r0
+inc r2
+cmp r2 r0
+jmpe
+jmp
+busao r4
+busdo r3
+busao r4
