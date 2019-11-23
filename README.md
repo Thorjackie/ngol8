@@ -1,5 +1,6 @@
 # ngol8
 
+OPEN IN RAW VIEW ELSE IT LOOKS WEIRD | 
 repository for my ngol8 cpu, WIP
 file descriptions:
   genrom.py:
